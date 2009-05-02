@@ -1,1 +1,3 @@
 * text=auto !eol
+/apertium-pl-hsb.hsb.dix -text
+/apertium-pl-hsb.pl-hsb.dix -text
