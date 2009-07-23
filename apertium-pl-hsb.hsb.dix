@@ -35,6 +35,42 @@
           <r>być<s n="vbser"/><s n="inf"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>sym</l>
+          <r>być<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sy</l>
+          <r>być<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>być<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njejsym</l>
+          <r>nje<s n="adv"/><j/>być<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njejsy</l>
+          <r>nje<s n="adv"/><j/>być<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njeje</l>
+          <r>nje<s n="adv"/><j/>być<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="rěč/__n">
       <e>
