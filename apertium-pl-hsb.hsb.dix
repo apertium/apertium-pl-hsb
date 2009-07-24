@@ -1260,6 +1260,116 @@
         </p>
       </e>
     </pardef>
+    <pardef n="čitan/je__ger">
+      <e>
+        <p>
+          <l>je</l>
+          <r><s n="ger"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ja</l>
+          <r><s n="ger"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ju</l>
+          <r><s n="ger"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r><s n="ger"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jom</l>
+          <r><s n="ger"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ju</l>
+          <r><s n="ger"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="ger"/><s n="nt"/><s n="du"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jow</l>
+          <r><s n="ger"/><s n="nt"/><s n="du"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jomaj</l>
+          <r><s n="ger"/><s n="nt"/><s n="du"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="ger"/><s n="nt"/><s n="du"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jomaj</l>
+          <r><s n="ger"/><s n="nt"/><s n="du"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jomaj</l>
+          <r><s n="ger"/><s n="nt"/><s n="du"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ja</l>
+          <r><s n="ger"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jow</l>
+          <r><s n="ger"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jam</l>
+          <r><s n="ger"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ja</l>
+          <r><s n="ger"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jemi</l>
+          <r><s n="ger"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jach</l>
+          <r><s n="ger"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <!-- f -->
