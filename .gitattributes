@@ -1,3 +1,8 @@
 * text=auto !eol
 /apertium-pl-hsb.hsb.dix -text
 /apertium-pl-hsb.pl-hsb.dix -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
